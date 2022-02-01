@@ -1,3 +1,5 @@
+import UIKit
+
 class Solution {
     func runningSum(_nums: [Int]) -> [Int]{
         var n:[Int] = [Int]()
