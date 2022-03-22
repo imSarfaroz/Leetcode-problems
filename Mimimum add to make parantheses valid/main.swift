@@ -16,4 +16,4 @@ class Solution {
         }
         return count + stack.count
     }
-}
+}Time Needed to Buy Tickets
